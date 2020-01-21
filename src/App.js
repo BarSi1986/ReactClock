@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import './styles.css'
 import styled from "styled-components";
 import clock from './images/clockFace.png'
-import marble from './images/marble-bg.jpg'
 
 const Wrapper = styled.div`
 height: 100vh;
